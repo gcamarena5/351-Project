@@ -21,3 +21,4 @@ Second, open another terminal. In one, run ./recv. This is the reciever. In the 
 <img width="1232" height="56" alt="image" src="https://github.com/user-attachments/assets/170cddbc-6c5d-4d5f-bee6-18d60d08a247" />
 
 
+<img width="1422" height="67" alt="image" src="https://github.com/user-attachments/assets/b3443022-d390-4cc8-b69b-53d594493ad8" />
